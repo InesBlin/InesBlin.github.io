@@ -1,5 +1,55 @@
 ---
 permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Hi! I am Inès Blin, welcome to my personal website.
+
+I am an industrial Ph.D. student, in collaboration between the Sony Computer Science Laboratories in Paris, France, and between the Vrije Universiteit Amsterdam in the Netherlands. I started my Ph.D. in October 2021, hired as part of the European project [MUHAI](https://muhai.org). My background is in Mathematics and Computer Science. 
+
+My research focuses on building Narrative Structures from Knowledge Graphs. A narrative is here defined as a sequence of events, that are either temporally or causally linked altogether.
+
+Topics of interest: AI, Knowledge Graphs, Narratives, ML.
+
+One of my hobbies is sport, especially running - when I am not injured - and more recently cycling. I am always looking for the nicest route in my surroundings!
+
+---
+
+## Latest News
+
+* November 2024: Presented our demo paper "Living Meta-Review Generation for Social Scientists: An Interface and A Case Study on Human Cooperation" at EKAW.
+
+* November 2024: Presented our paper "Structured Representations for Narratives" at EKAW.
+
+* November 2024: We had the last event organised for MUHAI, a [tutorial](https://kmitd.github.io/muhai-tutorial/) giving an overview of our work at EKAW.
+
+* November 2024: Giulio Prevedello presented our paper "Lyrics for success: embedding features for song popularity prediction" at NLP4MUSA, co-located with ISMIR.
+
+* May 2024: Our workshop SEMMES happened during ESWC. You can check the proceedings [here](https://research.vu.nl/en/publications/semantic-methods-for-events-and-stories-semmes-2024).
+
+* December 2023: Presented our paper "OKG: A Knowledge Graph for Fine-grained Understanding of Social Media Discourse on Inequality" at K-CAP. Our paper was **nominated for the best student paper award.** 
+
+* November 2023: We had the [2nd review meeting](https://muhai.org/what-s-new/news-events/240-2-rev-meeting) of the MUHAI European Project.
+
+* July 2023: Gave a talk at the [Workshop on on Ontologies for Narrative and Fiction](https://golemlab.eu/news/ontology-workshop/).
+
+* July 2022: Virtually presented "Building a French Revolution Narrative from Wikidata" at the [Workshop on semantic techniques for narrative-based understanding](https://muhai.org/events/196-ijcai-ecai-2022-workshop-semantic-techniques-for-narrative-based-understanding) (IJCAI-ECAI 2022). The recording can be found [here](https://www.loom.com/share/d087623a933440c4b28b11374856357d).
+
+* July 2022: Attended the [ISWS Summer School](http://2022.semanticwebschool.org) on Knowledge Graphs & Artificial Intelligence. Presented a poster on "Building Narrative Structures from Knowledge Graphs", which got the **third best poster award**. Also worked in a group of three and one tutor on "Discovering Disjointness Axioms form Data Evidence". Our work got the **second best presentation award**, and our team got the **best group award**. You can find my trip report [here](https://ines-blin.notion.site/ISWS-2022-Trip-Report-In-s-Blin-d1dca766722e4e3c98c94f5968fffbda).
+
+* June 2022: Attended [HHAI 2022](https://www.hhai-conference.org).
+
+* May 2022: Presented "Building Narrative Structures from Knowledge Graphs" at the Ph.D. Symposium of [ESWC 2022](https://2022.eswc-conferences.org), which got the **best doctoral symposium paper award**.
+
+* March 2022: Organised the MUHAI (EU Project) [general meeting in Paris](https://muhai.org/events/195-muhai-in-the-city-of-light).
+
+<!-- ---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
@@ -46,4 +96,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
