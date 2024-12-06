@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the short, 1-page version of my CV [here](http://InesBlin.github.io/files/cv_short).
+You can find the short, 1-page version of my CV [here](http://InesBlin.github.io/files/cv_short.pdf).
 
-The longer, more academic version (including publications and talks) can be found [here](http://InesBlin.github.io/files/cv_long).
+The longer, more academic version (including publications and talks) can be found [here](http://InesBlin.github.io/files/cv_long.pdf).
 
 <!-- Education
 ======
