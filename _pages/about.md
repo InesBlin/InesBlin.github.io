@@ -10,11 +10,19 @@ redirect_from:
 
 Hi! I am Inès Blin, welcome to my personal website.
 
-I am an industrial Ph.D. student, in collaboration between the Sony Computer Science Laboratories in Paris, France, and between the Vrije Universiteit Amsterdam in the Netherlands. I started my Ph.D. in October 2021, hired as part of the European project [MUHAI](https://muhai.org). My background is in Mathematics and Computer Science. 
+<div style="text-align: justify;">
+I am an industrial Ph.D. student, in collaboration between the Sony Computer Science Laboratories in Paris, France, and between the Vrije Universiteit Amsterdam in the Netherlands. I started my Ph.D. in October 2021, and my background is in Mathematics and Computer Science. 
+</div>
+<br>
+<div style="text-align: justify;">
+My research centers on constructing narratives using structured representations, achieved through a two-step process: first, developing a factual knowledge graph to serve as the foundational knowledge, and second, generating the narrative from this structure. I have contributed to several initiatives, including the <a href="https://muhai.org">MUHAI project</a> focused on advancing human-centric AI, and an <a href="https://www.nwo.nl/en/projects/406xs04118">NWO-funded project</a> dedicated to hypothesis discovery and synthesis.
+</div>
 
-My research focuses on building Narrative Structures from Knowledge Graphs. A narrative is here defined as a sequence of events, that are either temporally or causally linked altogether.
 
-Topics of interest: AI, Knowledge Graphs, Narratives, ML.
+
+<!-- A narrative can be seen as a sequence of related events, that are either temporally or causally linked altogether. -->
+<br>
+Topics of interest: AI, Knowledge Graphs, Narratives, LLMs, ML.
 
 One of my hobbies is sport, especially running - when I am not injured - and more recently cycling. I am always looking for the nicest route in my surroundings!
 
@@ -24,15 +32,15 @@ One of my hobbies is sport, especially running - when I am not injured - and mor
 
 * November 2024: Presented our demo paper "Living Meta-Review Generation for Social Scientists: An Interface and A Case Study on Human Cooperation" at EKAW.
 
-* November 2024: Presented our paper "Structured Representations for Narratives" at EKAW.
+* November 2024: Presented our paper [Structured Representations for Narratives](https://link.springer.com/chapter/10.1007/978-3-031-77792-9_9) at EKAW.
 
-* November 2024: We had the last event organised for MUHAI, a [tutorial](https://kmitd.github.io/muhai-tutorial/) giving an overview of our work at EKAW.
+* November 2024: We recently organized the final MUHAI event: a [tutorial](https://kmitd.github.io/muhai-tutorial/) presented at EKAW, offering an overview of our work.
 
 * November 2024: Giulio Prevedello presented our paper "Lyrics for success: embedding features for song popularity prediction" at NLP4MUSA, co-located with ISMIR.
 
-* May 2024: Our workshop SEMMES happened during ESWC. You can check the proceedings [here](https://research.vu.nl/en/publications/semantic-methods-for-events-and-stories-semmes-2024).
+* May 2024: Our workshop on Semantic Methods for Events and Stories SEMMES was held during ESWC. The [proceedings](https://research.vu.nl/en/publications/semantic-methods-for-events-and-stories-semmes-2024) are out.
 
-* December 2023: Presented our paper "OKG: A Knowledge Graph for Fine-grained Understanding of Social Media Discourse on Inequality" at K-CAP. Our paper was **nominated for the best student paper award.** 
+<!-- * December 2023: Presented our paper "OKG: A Knowledge Graph for Fine-grained Understanding of Social Media Discourse on Inequality" at K-CAP. Our paper was **nominated for the best student paper award.** 
 
 * November 2023: We had the [2nd review meeting](https://muhai.org/what-s-new/news-events/240-2-rev-meeting) of the MUHAI European Project.
 
@@ -46,7 +54,7 @@ One of my hobbies is sport, especially running - when I am not injured - and mor
 
 * May 2022: Presented "Building Narrative Structures from Knowledge Graphs" at the Ph.D. Symposium of [ESWC 2022](https://2022.eswc-conferences.org), which got the **best doctoral symposium paper award**.
 
-* March 2022: Organised the MUHAI (EU Project) [general meeting in Paris](https://muhai.org/events/195-muhai-in-the-city-of-light).
+* March 2022: Organised the MUHAI (EU Project) [general meeting in Paris](https://muhai.org/events/195-muhai-in-the-city-of-light). -->
 
 <!-- ---
 permalink: /
