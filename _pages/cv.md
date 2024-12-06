@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+You can find the short, 1-page version of my CV [here](http://InesBlin.github.io/files/cv_short).
+
+The longer, more academic version (including publications and talks) can be found [here](http://InesBlin.github.io/files/cv_long).
+
+<!-- Education
 ======
 **Ph.D. in Computer Science, Vrije Universiteit Amsterdam** (October 2021-present)
 
@@ -81,4 +85,4 @@ Skills
 * Databases: Sparl, SQL, SPARQL, Notions of NoSQL
 * Already used: Ruby, Elasticsearch, Kibana, Flask
 
-
+ -->
